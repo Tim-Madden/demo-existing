@@ -1,3 +1,6 @@
+# test
+/to-be-ignored
+
 # ignore iPython Notebook Checkpoints
 .ipynb_checkpoints
 
